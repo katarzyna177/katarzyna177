@@ -13,18 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!--
-Hello, I am Przemyslaw 👋
-Experienced programmer 🔹 Speaker and trainer 🔹 YouTuber and blogger 🔹 Spring Boot 🔹 Microservices 🔹 Webinars and IT trainings
-
-
-
-I help to solve problems related to software architecture. I specialize in Spring Boot, especially in using it in the context of microservices. I train programmers, consult and I am building a community of programming enthusiasts like myself.
-
-🛠  Tech Stack
-Spring Java GraphQL IntelliJ IDEA GitHub GitLab CI
 
 Find Me Around The Web 🌍
 🗣 Blog
@@ -34,5 +22,14 @@ Find Me Around The Web 🌍
 🐦 Twitter
 🔗 Linkedin
 📫 E-mail
-
 -->
+
+I am interested in software testing. I am looking for a job in Białystok or remotely as a Tester. I would like to develop my skills in web application testing or automated testing.
+
+🛠  Tech Stack
+Selenium, HTML5/CSS3, REST, POSTMAN, HTTP, RWD, Spring, Java, IntelliJ IDEA, GitHub
+
+Find Me Around The Web 🌍
+🔗 Linkedin: https://www.linkedin.com/in/katarzynatomaszycka/
+📫 E-mail: k.tomaszycka89@gmail.com
+
