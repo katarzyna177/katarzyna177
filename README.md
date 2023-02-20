@@ -57,9 +57,11 @@ COURSES:</br>
 👉 SDA Academy - Java od Podstaw </br>
 
 My projects </br>
-Bugs: Bug on  futbolkolektyw.pl site <a href="https://docs.google.com/spreadsheets/d/1tQ5_ja33R_019TF53SKv1K5qn3J4vVnU/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Bugs</a>
+Bugs: 
+- Bug on  https://scouts.futbolkolektyw.pl/ site <a href="https://docs.google.com/spreadsheets/d/1tQ5_ja33R_019TF53SKv1K5qn3J4vVnU/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Bugs</a>
 
-Test cases: <a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Link</a>
+Test cases:
+- Test cases for https://scouts.futbolkolektyw.pl/ site <a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Link</a>
 
 <a href="https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Raport</a>
 
