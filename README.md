@@ -50,18 +50,23 @@ Tools: </br>
 
 
 COURSES:</br>
-👉 Zostań Testerem Manualnym ![image](https://user-images.githubusercontent.com/16058577/219970355-843e0626-2f70-486d-a279-2092bc1496a8.png)</br>
+👉 Zostań Testerem Manualnym 
 👉 Podstawy manualnego testowania oprogramowania - Udemy.com </br>
 👉 Praktyczny kurs testowania oprogramowania - Udemy.com </br>
 👉 Kurs Selenium Java od podstaw - Udemy.com </br>
 👉 SDA Academy - Java od Podstaw </br>
 
 My projects </br>
-Bugs: 
-- Bug on  https://scouts.futbolkolektyw.pl/ site <a href="https://docs.google.com/spreadsheets/d/1tQ5_ja33R_019TF53SKv1K5qn3J4vVnU/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Bugs</a>
+![image](https://user-images.githubusercontent.com/16058577/219970355-843e0626-2f70-486d-a279-2092bc1496a8.png)</br>
+<a href="https://github.com/katarzyna177/challenge_portfolio_katarzyna177/edit/main/README.md">link do repozytorum wykonanego podczas wyzwania</a>
 
-Test cases:
-- Test cases for https://scouts.futbolkolektyw.pl/ site <a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Link</a>
+📌 testy eksploracyjne aplikacji </br>
+📌 tworzenie przypadków testowych - <a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Test Cases - https://scouts.futbolkolektyw.pl/</a> </br>
+📌 raportowanie błędów - <a href="https://docs.google.com/spreadsheets/d/1tQ5_ja33R_019TF53SKv1K5qn3J4vVnU/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Zgoszone błędy</a> </br>
+📌 tworzenie raportów z przeprowadzonych twstów - <a href="https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Raport</a> </br>
+📌 testy aplikacji mobilnej oxl.pl - <a href="https://docs.google.com/spreadsheets/d/1Kc2zjgaFuBei-7I7sGs7RIDrndK0UHVsjzh-cHuMooE/edit?usp=sharing">Zgłoszone błędy</a> </br>
+📌 testy aplikacji wbowej swipeTo - <a href="https://docs.google.com/spreadsheets/d/1uzdr9za6OqU4Hj30lBi017jEtYjBXA0uLjjaV-zMCdw/edit?usp=sharing">Zgłoszone błędy</a> </br>
 
-<a href="https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Raport</a>
+
+
 
