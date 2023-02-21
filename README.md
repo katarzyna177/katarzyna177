@@ -47,15 +47,18 @@ Tools: </br>
 👉 Java - basics of Java language </br>
 👉 IntelliJ IDEA - development environment for Java </br>
 
-
-COURSES:</br>
+Courses:</br>
 👉 Zostań Testerem Manualnym 
 👉 Podstawy manualnego testowania oprogramowania - Udemy.com </br>
 👉 Praktyczny kurs testowania oprogramowania - Udemy.com </br>
 👉 Kurs Selenium Java od podstaw - Udemy.com </br>
 👉 SDA Academy - Java od Podstaw </br>
 
-My projects </br>
+My projects: </br>
+-- website dedicated to a medical device - a system for deep brain stimulation - System DBS https://systemdbs.pl/
+
+🛠  Tech Stack: Wordpress, HTML, CSS, SEO
+
 ![image](https://user-images.githubusercontent.com/16058577/219970355-843e0626-2f70-486d-a279-2092bc1496a8.png)</br>
 <a href="https://github.com/katarzyna177/challenge_portfolio_katarzyna177/edit/main/README.md">link do repozytorum wykonanego podczas wyzwania</a>
 
