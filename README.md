@@ -38,7 +38,6 @@ Tools: </br>
 👉 Jira - bug tracker </br>
 👉 TestRail - test cases management </br>
 👉 Postman - Testing tool for REST API </br>
-👉 Selenium IDE - Open source record and playback test automation for the web </br>
 👉 xPath Finder - xPath finding tool </br>
 👉 Slack - for communication within the team </br>
 👉 Chrome DevTools - for testing and to improve bug reports </br>
