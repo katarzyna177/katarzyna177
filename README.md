@@ -34,7 +34,7 @@ Find Me Around The Web 🌍</br>
 📫 E-mail: k.tomaszycka89@gmail.com
 
 
-Tools: </br>
+Tools & Technologies: </br>
 👉 Jira - bug tracker </br>
 👉 TestRail - test cases management </br>
 👉 Postman - Testing tool for REST API </br>
@@ -44,8 +44,19 @@ Tools: </br>
 👉 MySQL - relational database management system </br>
 👉 Selenium IDE - tool use to support automated testing </br>
 👉 Selenium WebDriver - for automated testing of web applications </br>
-👉 Java - basics of Java language </br>
+👉 Java/Spring - basics of Java language </br>
 👉 IntelliJ IDEA - development environment for Java </br>
+👉 HTML5/CSS3, REST, HTTP, RWD </br>
+👉 Photoshop </br>
+👉 Wordpress </br>
+👉 Hibernate, Docker </br>
+👉 MySQL, PostgreSQL </br>
+
+Skills: </br>
+🔶 Software testing </br>
+🔶 Creating test cases </br>
+🔶 Reporting bugs </br>
+
 
 Courses:</br>
 👉 Zostań Testerem Manualnym 
