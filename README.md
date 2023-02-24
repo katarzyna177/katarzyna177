@@ -41,6 +41,7 @@ Tools & Technologies: </br>
 👉 xPath Finder - xPath finding tool </br>
 👉 Slack - for communication within the team </br>
 👉 Chrome DevTools - for testing and to improve bug reports </br>
+👉 AZ Screen Recorder - Screen recorder for mobile </br>
 👉 MySQL - relational database management system </br>
 👉 Selenium IDE - tool use to support automated testing </br>
 👉 Selenium WebDriver - for automated testing of web applications </br>
