@@ -74,10 +74,72 @@ My projects: </br>
 📌 testy aplikacji mobilnej oxl.pl - <a href="https://docs.google.com/spreadsheets/d/1Kc2zjgaFuBei-7I7sGs7RIDrndK0UHVsjzh-cHuMooE/edit?usp=sharing">Zgłoszone błędy</a> </br>
 📌 testy aplikacji wbowej swipeTo - <a href="https://docs.google.com/spreadsheets/d/1uzdr9za6OqU4Hj30lBi017jEtYjBXA0uLjjaV-zMCdw/edit?usp=sharing">Zgłoszone błędy</a> </br>
 
+PROJECTS
+COLT 01/2023 organised by Cherry-IT - Postman and additional topics related to the API
+(from March to April 2023)
+
+Postman: ☑️ sending requests ☑️ defining environments ☑️ defining variables ☑️ REST API testing
+
+▶️ Project repository: <a href="https://github.com/katarzyna177/Postman-Trello-Testy-API">Trello REST API testing with Postman</a>
+
+Project scope:
+
+☑️ getting to know the basic knowledge of REST API
+
+☑️ getting to know the Postman tool
+
+☑️ creating my own collections based on Trello documentation
+
+☑️ learning to report bugs
+
+☑️ learning to create test cases
+
+☑️ learning GIT and getting to know GitHub
+
+
+Challenge portfolio organised by DARE IT - QA Manual Testing
+(from January to February 2023)
+
+☑️ exploratory testing ☑️ testing web applications ☑️ testing mobile applications ☑️ using DevTools ☑️ writing test cases ☑️ bug reporting ☑️ creating a test report ☑️ using Jira to bug reporting ☑️ SQL
+
+TEST CASES
+Test environment: Football Scout - web application
+
+▶️ <a href="https://docs.google.com/spreadsheets/d/1bwzbHONk7XtrYPgmoBFkM4A9DsDVj7HX/edit?rtpof=true">Test cases based on the User Story</a>
+
+▶️ <a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Test cases based on explorary testing</a>
+
+BUG REPORT
+Test environment: Football Scout - web application
+
+▶️ <a href="https://docs.google.com/spreadsheets/d/1tQ5_ja33R_019TF53SKv1K5qn3J4vVnU/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Bug report - web application testing</a>
+
+Test environment: OLX - mobile app
+
+▶️ <a href="https://docs.google.com/spreadsheets/d/1Kc2zjgaFuBei-7I7sGs7RIDrndK0UHVsjzh-cHuMooE/edit?usp=sharing">Bug report - mobile app testing</a>
+
+TEST REPORT
+Test environment: Football Scout - web application
+
+▶️ <a href="https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Test report - web application testing
+</a>
+
+BUG REPORT (I used JIRA for this task)
+Test environment: SwipeTo - mobile app
+
+▶️ <a href="https://docs.google.com/spreadsheets/d/1uzdr9za6OqU4Hj30lBi017jEtYjBXA0uLjjaV-zMCdw/edit?usp=sharing">Bug report - mobile app testing</a>
+
+SQL tasks
+
+▶️ <a href="https://github.com/katarzyna177/challenge_portfolio_katarzyna177/blob/main/README.md#user-content-task-5">SQL tasks</a>
+
+
+
 Courses:</br>
-👉 Zostań Testerem Manualnym 
-👉 Podstawy manualnego testowania oprogramowania - Udemy.com </br>
-👉 Praktyczny kurs testowania oprogramowania - Udemy.com </br>
+👉 Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT
+👉 Postman from scratch - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy
+👉 Basics of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy </br>
+👉 Practical software testing course ('Praktyczny kurs testowania oprogramowania') - Udemy </br>
 👉 Kurs Selenium Java od podstaw - Udemy.com </br>
 👉 SDA Academy - Java od Podstaw </br>
 
