@@ -34,7 +34,13 @@ Find Me Around The Web 🌍</br>
 📫 E-mail: k.tomaszycka89@gmail.com
 
 
-Tools & Technologies: </br>
+### Skills: </br>
+🔶 Software testing </br>
+🔶 Creating test cases </br>
+🔶 Reporting bugs </br>
+
+
+### Tools & Technologies: </br>
 - Jira - bug tracker </br>
 - TestRail - test cases management </br>
 - Postman - Testing tool for REST API </br>
@@ -53,52 +59,16 @@ Tools & Technologies: </br>
 - Hibernate, Docker </br>
 - MySQL, PostgreSQL </br>
 
-Skills: </br>
-🔶 Software testing </br>
-🔶 Creating test cases </br>
-🔶 Reporting bugs </br>
 
-
-My projects: </br>
--- website dedicated to a medical device - a system for deep brain stimulation - System DBS https://systemdbs.pl/
+## My projects: </br>
+### Website https://systemdbs.pl/ 
+A page devoted to the issues of the deep brain stimulation system. This system is implanted in people with symptoms of tremors or dystonia caused by the disease. The generator is implanted under the collarbone or on the stomach under the skin and connected with a wire to diodes placed in the brain.
 
 🛠  Tech Stack: Wordpress, HTML, CSS, SEO
 
-![image](https://user-images.githubusercontent.com/16058577/219970355-843e0626-2f70-486d-a279-2092bc1496a8.png)</br>
-<a href="https://github.com/katarzyna177/challenge_portfolio_katarzyna177/edit/main/README.md">link do repozytorum wykonanego podczas wyzwania</a>
-
-📌 testy eksploracyjne aplikacji </br>
-📌 tworzenie przypadków testowych - <a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Test Cases - https://scouts.futbolkolektyw.pl/</a> </br>
-📌 raportowanie błędów - <a href="https://docs.google.com/spreadsheets/d/1tQ5_ja33R_019TF53SKv1K5qn3J4vVnU/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Zgoszone błędy</a> </br>
-📌 tworzenie raportów z przeprowadzonych twstów - <a href="https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Raport</a> </br>
-📌 testy aplikacji mobilnej oxl.pl - <a href="https://docs.google.com/spreadsheets/d/1Kc2zjgaFuBei-7I7sGs7RIDrndK0UHVsjzh-cHuMooE/edit?usp=sharing">Zgłoszone błędy</a> </br>
-📌 testy aplikacji wbowej swipeTo - <a href="https://docs.google.com/spreadsheets/d/1uzdr9za6OqU4Hj30lBi017jEtYjBXA0uLjjaV-zMCdw/edit?usp=sharing">Zgłoszone błędy</a> </br>
-
-PROJECTS
-COLT 01/2023 organised by Cherry-IT - Postman and additional topics related to the API
-(from March to April 2023)
-
-Postman: ☑️ sending requests ☑️ defining environments ☑️ defining variables ☑️ REST API testing
-
-▶️ Project repository: <a href="https://github.com/katarzyna177/Postman-Trello-Testy-API">Trello REST API testing with Postman</a>
-
-Project scope:
-
-☑️ getting to know the basic knowledge of REST API
-
-☑️ getting to know the Postman tool
-
-☑️ creating my own collections based on Trello documentation
-
-☑️ learning to report bugs
-
-☑️ learning to create test cases
-
-☑️ learning GIT and getting to know GitHub
-
-
-Challenge portfolio organised by DARE IT - QA Manual Testing
-(from January to February 2023)
+### Challenge portfolio organised by DARE IT - QA Manual Testing</br>
+(from January to February 2023)</br>
+<a href="https://github.com/katarzyna177/challenge_portfolio_katarzyna177/edit/main/README.md">Link to the repository made during the challenge</a>
 
 ☑️ exploratory testing ☑️ testing web applications ☑️ testing mobile applications ☑️ using DevTools ☑️ writing test cases ☑️ bug reporting ☑️ creating a test report ☑️ using Jira to bug reporting ☑️ SQL
 
@@ -133,11 +103,34 @@ SQL tasks
 
 ▶️ <a href="https://github.com/katarzyna177/challenge_portfolio_katarzyna177/blob/main/README.md#user-content-task-5">SQL tasks</a>
 
+<!--
+📌 testy eksploracyjne aplikacji </br>
+📌 tworzenie przypadków testowych - <a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Test Cases - https://scouts.futbolkolektyw.pl/</a> </br>
+📌 raportowanie błędów - <a href="https://docs.google.com/spreadsheets/d/1tQ5_ja33R_019TF53SKv1K5qn3J4vVnU/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Zgoszone błędy</a> </br>
+📌 tworzenie raportów z przeprowadzonych twstów - <a href="https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Raport</a> </br>
+📌 testy aplikacji mobilnej oxl.pl - <a href="https://docs.google.com/spreadsheets/d/1Kc2zjgaFuBei-7I7sGs7RIDrndK0UHVsjzh-cHuMooE/edit?usp=sharing">Zgłoszone błędy</a> </br>
+📌 testy aplikacji wbowej swipeTo - <a href="https://docs.google.com/spreadsheets/d/1uzdr9za6OqU4Hj30lBi017jEtYjBXA0uLjjaV-zMCdw/edit?usp=sharing">Zgłoszone błędy</a> </br>
+-->
 
+### COLT 01/2023 organised by Cherry-IT - Postman and additional topics related to the API
+(from March to April 2023)
 
-Courses:</br>
-👉 Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT
-👉 Postman from scratch - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy
+▶️ Project repository: <a href="https://github.com/katarzyna177/Postman-Trello-Testy-API">Trello REST API testing with Postman</a>
+
+Postman: ☑️ sending requests ☑️ defining environments ☑️ defining variables ☑️ REST API testing
+
+Project scope:
+
+☑️ getting to know the basic knowledge of REST API </br>
+☑️ getting to know the Postman tool </br>
+☑️ creating my own collections based on Trello documentation </br>
+☑️ learning to report bugs </br>
+☑️ learning to create test cases </br>
+☑️ learning GIT and getting to know GitHub </br>
+
+### Courses:</br>
+👉 Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT </br>
+👉 Postman from scratch - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy </br>
 👉 Basics of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy </br>
 👉 Practical software testing course ('Praktyczny kurs testowania oprogramowania') - Udemy </br>
 👉 Kurs Selenium Java od podstaw - Udemy.com </br>
