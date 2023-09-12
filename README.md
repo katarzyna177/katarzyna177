@@ -24,7 +24,9 @@ Find Me Around The Web 🌍
 📫 E-mail
 -->
 
-I am interested in software testing. I am looking for a job in Białystok or remotely as a Software Tester. I would like to develop my skills in web application testing or automated testing. I have knowledge of frontend and backend. I like learning new things. A fan of the Toastmaster Bialystok speakers and leaders club. I am determined to prove the skills I have already acquired and still want to develop them.
+I am an ambitious junior tester. I like testing software and I want to do it. I am passionate about quality assurance. Constant development makes me happy. I am a motivated and results-oriented person. I am creative and hardworking, I enjoy working with others.
+Knowledge of frontend and backend allows me to be a better and better tester and look at the created applications not only as a tester and user but also through the eyes of a programmer. Testing is a constant opportunity to find bugs, things that don't fit and that can work better and easier.
+I know Chrome DevTools, Jira, Postman, REST, SQL HTML, CSS, RWD development tools. In the future, I also want to automate tests using Selenium, using knowledge of Java.
 
 <!--🛠  Tech Stack </br>
 Selenium, HTML5/CSS3, REST, POSTMAN, HTTP, RWD, Spring, Java, IntelliJ IDEA, GitHub-->
