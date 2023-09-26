@@ -26,7 +26,7 @@ Find Me Around The Web 🌍
 
 I am an ambitious junior tester. I like testing software and I want to do it. I am passionate about quality assurance. Constant development makes me happy. I am a motivated and results-oriented person. I am creative and hardworking, I enjoy working with others.</br></br>
 Knowledge of frontend and backend allows me to be a better and better tester and look at the created applications not only as a tester and user but also through the eyes of a programmer. Testing is a constant opportunity to find bugs, things that don't fit and that can work better and easier.</br></br>
-I know Chrome DevTools, Jira, Postman, REST, SQL HTML, CSS, RWD development tools. In the future, I also want to automate tests using Selenium, using knowledge of Java.
+I know Chrome DevTools, Jira, Postman, REST, SQL HTML, CSS, RWD development tools. In the future, I also want to automate tests using Selenium and Java.
 
 <!--🛠  Tech Stack </br>
 Selenium, HTML5/CSS3, REST, POSTMAN, HTTP, RWD, Spring, Java, IntelliJ IDEA, GitHub-->
